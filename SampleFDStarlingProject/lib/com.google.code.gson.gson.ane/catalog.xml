@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+    <versions>
+        <swc version="1.2"/>
+        <compiler name="ActionScript Compiler" version="2.0.0" build="354203"/>
+    </versions>
+    <features>
+        <feature-script-deps/>
+    </features>
+    <libraries>
+        <library path="library.swf">
+            <script name="com/tuarua/DummyANE" mod="1502488660639">
+                <def id="com.tuarua:DummyANE"/>
+                <dep id="Object" type="i"/>
+            </script>
+            <digests>
+                <digest type="SHA-256" signed="false" value="564033b8ea31c3dc4db5753cb3a617b1975686fac607d8a7804c57cbd74aa9a5"/>
+            </digests>
+        </library>
+    </libraries>
+</swc>

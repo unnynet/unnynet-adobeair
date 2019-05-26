@@ -1,0 +1,790 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="art.png">
+	<!-- Created with Adobe Animate version 16.0.1.119 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ArchymedPart4atl0000" x="1814" y="1229" width="24" height="41" pivotX="0" pivotY="0"/>
+	<SubTexture name="AxisVertMover4atl0000" x="228" y="1733" width="30" height="22" pivotX="18.25" pivotY="11.15"/>
+	<SubTexture name="Balloon4atl0000" x="1854" y="866" width="140" height="167" pivotX="1" pivotY="123.65"/>
+	<SubTexture name="BalloonMakingMachine4atl0000" x="205" y="1175" width="132" height="62" pivotX="1" pivotY="25.65"/>
+	<SubTexture name="Bgd4atl0000" x="1152" y="1117" width="100" height="100" pivotX="0" pivotY="0"/>
+	<SubTexture name="BlurredInnerCogwheelTooth4atl0000" x="1163" y="1440" width="27" height="15" pivotX="0" pivotY="0.85"/>
+	<SubTexture name="BlurredTooth4atl0000" x="1407" y="1767" width="30" height="16" pivotX="1.15" pivotY="2.75"/>
+	<SubTexture name="BulbCover4atl0000" x="141" y="1799" width="15" height="15" pivotX="7.8" pivotY="7.8"/>
+	<SubTexture name="BulbLight4atl0000" x="178" y="1222" width="15" height="15" pivotX="7.8" pivotY="7.8"/>
+	<SubTexture name="BulbLight4atl0001" x="1663" y="1598" width="15" height="15"/>
+	<SubTexture name="BulbLight4atl0002" x="1680" y="1598" width="15" height="15"/>
+	<SubTexture name="BulbLight4atl0003" x="348" y="1671" width="15" height="15"/>
+	<SubTexture name="BulbLight4atl0004" x="1867" y="1798" width="15" height="15"/>
+	<SubTexture name="CannonShotTrack4atl0000" x="946" y="1781" width="22" height="16" pivotX="0" pivotY="0"/>
+	<SubTexture name="ClawHand4atl0000" x="1037" y="892" width="7" height="23" pivotX="3.3" pivotY="11.1"/>
+	<SubTexture name="ClawPart4atl0000" x="788" y="1426" width="15" height="41" pivotX="7.2" pivotY="20.25"/>
+	<SubTexture name="Cogwheel4atl0000" x="234" y="297" width="202" height="202" pivotX="101" pivotY="101"/>
+	<SubTexture name="Cogwheel4atl0001" x="1448" y="480" width="202" height="202"/>
+	<SubTexture name="Cogwheel4atl0002" x="969" y="486" width="202" height="202"/>
+	<SubTexture name="Cogwheel4atl0003" x="204" y="705" width="199" height="199" frameX="-2" frameY="-2" frameWidth="202" frameHeight="202"/>
+	<SubTexture name="Cogwheel4atl0004" x="2" y="2" width="0" height="0" frameX="-101" frameY="-101" frameWidth="202" frameHeight="202"/>
+	<SubTexture name="CogwheelTooth4atl0000" x="1560" y="1772" width="29" height="16" pivotX="1" pivotY="1"/>
+	<SubTexture name="Coin4atl0000" x="2003" y="1393" width="33" height="33" pivotX="41.2" pivotY="35.8" frameX="-25" frameY="-19" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0001" x="2003" y="1350" width="41" height="41" frameX="-21" frameY="-15" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0002" x="299" y="1671" width="47" height="47" frameX="-18" frameY="-12" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0003" x="1278" y="1609" width="55" height="55" frameX="-14" frameY="-8" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0004" x="747" y="1497" width="39" height="39" frameX="-22" frameY="-16" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0005" x="855" y="1671" width="47" height="47" frameX="-18" frameY="-12" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0006" x="1335" y="1609" width="55" height="55" frameX="-14" frameY="-8" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0007" x="1230" y="1666" width="49" height="49" frameX="-17" frameY="-11" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0008" x="1431" y="1596" width="56" height="56" frameX="-13" frameY="-7" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0009" x="1983" y="1132" width="63" height="63" frameX="-10" frameY="-4" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0010" x="1230" y="1631" width="33" height="33" frameX="-25" frameY="-19" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0011" x="883" y="1566" width="41" height="41" frameX="-21" frameY="-15" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0012" x="1777" y="1671" width="47" height="47" frameX="-18" frameY="-12" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0013" x="137" y="1615" width="55" height="55" frameX="-14" frameY="-8" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0014" x="624" y="1627" width="39" height="39" frameX="-22" frameY="-16" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0015" x="129" y="1672" width="47" height="47" frameX="-18" frameY="-12" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0016" x="1663" y="1615" width="55" height="55" frameX="-14" frameY="-8" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0017" x="1281" y="1666" width="49" height="49" frameX="-17" frameY="-11" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0018" x="1489" y="1596" width="56" height="56" frameX="-13" frameY="-7" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0019" x="818" y="1566" width="63" height="63" frameX="-10" frameY="-4" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0020" x="642" y="583" width="33" height="29" frameX="-25" frameY="-21" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0021" x="465" y="1679" width="41" height="37" frameX="-21" frameY="-17" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0022" x="65" y="1674" width="49" height="43" frameX="-17" frameY="-14" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0023" x="240" y="1647" width="57" height="49" frameX="-13" frameY="-11" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0024" x="755" y="1681" width="41" height="37" frameX="-21" frameY="-17" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0025" x="1332" y="1666" width="51" height="45" frameX="-16" frameY="-13" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0026" x="423" y="1604" width="59" height="53" frameX="-12" frameY="-9" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0027" x="1108" y="1647" width="57" height="49" frameX="-13" frameY="-11" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0028" x="747" y="1566" width="69" height="59" frameX="-7" frameY="-6" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0029" x="80" y="1264" width="81" height="71" frameX="-1" frameY="0" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0030" x="1046" y="1334" width="35" height="31" frameX="-24" frameY="-20" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0031" x="798" y="1681" width="41" height="37" frameX="-21" frameY="-17" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0032" x="1826" y="1674" width="49" height="43" frameX="-17" frameY="-14" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0033" x="1392" y="1654" width="57" height="49" frameX="-13" frameY="-11" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0034" x="1618" y="1672" width="50" height="43" frameX="-16" frameY="-14" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0035" x="68" y="1621" width="59" height="51" frameX="-12" frameY="-10" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0036" x="1084" y="1511" width="69" height="61" frameX="-7" frameY="-5" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0037" x="1451" y="1654" width="57" height="49" frameX="-13" frameY="-11" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0038" x="142" y="1515" width="69" height="61" frameX="-7" frameY="-5" frameWidth="83" frameHeight="71"/>
+	<SubTexture name="Coin4atl0039" x="1951" y="605" width="83" height="71"/>
+	<SubTexture name="CoinTrack4atl0000" x="2025" y="2" width="17" height="174" pivotX="-2.75" pivotY="173"/>
+	<SubTexture name="Digit4atl0000" x="2" y="1784" width="15" height="21" pivotX="0.3" pivotY="-1.1" frameX="0" frameY="0" frameWidth="17" frameHeight="21"/>
+	<SubTexture name="Digit4atl0001" x="1440" y="632" width="6" height="20" frameX="-4" frameY="0" frameWidth="17" frameHeight="21"/>
+	<SubTexture name="Digit4atl0002" x="512" y="1797" width="12" height="20" frameX="0" frameY="0" frameWidth="17" frameHeight="21"/>
+	<SubTexture name="Digit4atl0003" x="876" y="1795" width="13" height="21" frameX="0" frameY="0" frameWidth="17" frameHeight="21"/>
+	<SubTexture name="Digit4atl0004" x="1976" y="1793" width="14" height="20" frameX="0" frameY="0" frameWidth="17" frameHeight="21"/>
+	<SubTexture name="Digit4atl0005" x="891" y="1795" width="13" height="21" frameX="0" frameY="0" frameWidth="17" frameHeight="21"/>
+	<SubTexture name="Digit4atl0006" x="1120" y="1786" width="14" height="21" frameX="0" frameY="0" frameWidth="17" frameHeight="21"/>
+	<SubTexture name="Digit4atl0007" x="1682" y="1797" width="12" height="20" frameX="0" frameY="0" frameWidth="17" frameHeight="21"/>
+	<SubTexture name="Digit4atl0008" x="906" y="1795" width="13" height="21" frameX="0" frameY="0" frameWidth="17" frameHeight="21"/>
+	<SubTexture name="Digit4atl0009" x="1465" y="1796" width="13" height="20" frameX="0" frameY="0" frameWidth="17" frameHeight="21"/>
+	<SubTexture name="Digit4atl0010" x="1770" y="1783" width="16" height="20" frameX="0" frameY="0" frameWidth="17" frameHeight="21"/>
+	<SubTexture name="Digit4atl0011" x="1432" y="1794" width="14" height="20" frameX="0" frameY="0" frameWidth="17" frameHeight="21"/>
+	<SubTexture name="Digit4atl0012" x="1851" y="1786" width="14" height="21" frameX="0" frameY="0" frameWidth="17" frameHeight="21"/>
+	<SubTexture name="Digit4atl0013" x="496" y="1797" width="14" height="19" frameX="0" frameY="-1" frameWidth="17" frameHeight="21"/>
+	<SubTexture name="Digit4atl0014" x="1464" y="1508" width="15" height="20" frameX="0" frameY="0" frameWidth="17" frameHeight="21"/>
+	<SubTexture name="Digit4atl0015" x="223" y="1785" width="15" height="20" frameX="0" frameY="0" frameWidth="17" frameHeight="21"/>
+	<SubTexture name="Digit4atl0016" x="189" y="1793" width="15" height="19" frameX="0" frameY="0" frameWidth="17" frameHeight="21"/>
+	<SubTexture name="Digit4atl0017" x="332" y="1785" width="15" height="20" frameX="0" frameY="0" frameWidth="17" frameHeight="21"/>
+	<SubTexture name="Digit4atl0018" x="1401" y="1785" width="15" height="20" frameX="0" frameY="0" frameWidth="17" frameHeight="21"/>
+	<SubTexture name="Digit4atl0019" x="1696" y="1798" width="12" height="19" frameX="-1" frameY="-1" frameWidth="17" frameHeight="21"/>
+	<SubTexture name="Digit4atl0020" x="240" y="1795" width="14" height="20" frameX="0" frameY="0" frameWidth="17" frameHeight="21"/>
+	<SubTexture name="Digit4atl0021" x="1052" y="1797" width="13" height="20" frameX="0" frameY="0" frameWidth="17" frameHeight="21"/>
+	<SubTexture name="Digit4atl0022" x="477" y="1781" width="17" height="21"/>
+	<SubTexture name="DigitInformerBase4atl0000" x="1692" y="1736" width="21" height="31" pivotX="3.55" pivotY="5.25"/>
+	<SubTexture name="DigitInformerBase4atl0001" x="1384" y="1738" width="21" height="31"/>
+	<SubTexture name="Engine4atl0000" x="1017" y="1168" width="121" height="77" pivotX="5.75" pivotY="0" frameX="-4" frameY="0" frameWidth="127" frameHeight="89"/>
+	<SubTexture name="Engine4atl0001" x="895" y="1168" width="120" height="79" frameX="0" frameY="0" frameWidth="127" frameHeight="89"/>
+	<SubTexture name="Engine4atl0002" x="1857" y="1132" width="124" height="89" frameX="-3" frameY="0" frameWidth="127" frameHeight="89"/>
+	<SubTexture name="Engine4atl0003" x="844" y="617" width="118" height="67" frameX="-3" frameY="0" frameWidth="127" frameHeight="89"/>
+	<SubTexture name="Engine4atl0004" x="844" y="617" width="118" height="67" frameX="-3" frameY="0" frameWidth="127" frameHeight="89"/>
+	<SubTexture name="FarmConstruction4atl0000" x="1901" y="2" width="122" height="196" pivotX="121.5" pivotY="195"/>
+	<SubTexture name="FontEur4atl0000" x="926" y="1768" width="18" height="26" pivotX="0.75" pivotY="0" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0001" x="116" y="1674" width="11" height="26" frameX="-7" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0002" x="23" y="1774" width="17" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0003" x="42" y="1774" width="17" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0004" x="380" y="1774" width="17" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0005" x="686" y="1774" width="17" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0006" x="705" y="1774" width="17" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0007" x="437" y="1776" width="16" height="26" frameX="-4" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0008" x="1460" y="1768" width="18" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0009" x="724" y="1774" width="17" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0010" x="1173" y="492" width="5" height="6" frameX="-5" frameY="-31" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0011" x="2041" y="383" width="5" height="10" frameX="-5" frameY="-31" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0012" x="2041" y="359" width="5" height="22" frameX="-5" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0013" x="671" y="554" width="5" height="18" frameX="-5" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0014" x="2041" y="303" width="5" height="26" frameX="-5" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0015" x="607" y="1677" width="15" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0016" x="1171" y="1777" width="16" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0017" x="700" y="275" width="20" height="3" frameX="-1" frameY="-38" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0018" x="992" y="1555" width="20" height="20" frameX="-4" frameY="-14" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0019" x="1968" y="234" width="11" height="5" frameX="-3" frameY="-25" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0020" x="1690" y="664" width="20" height="12" frameX="-4" frameY="-18" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0021" x="2035" y="1428" width="11" height="33" frameX="-4" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0022" x="957" y="386" width="10" height="33" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0023" x="1173" y="386" width="10" height="33" frameX="-5" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0024" x="1258" y="1095" width="9" height="33" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0025" x="2035" y="1463" width="11" height="33" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0026" x="1744" y="1532" width="11" height="33" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0027" x="1915" y="1778" width="20" height="20" frameX="-4" frameY="-14" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0028" x="1937" y="1778" width="20" height="20" frameX="-4" frameY="-14" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0029" x="970" y="1274" width="40" height="47"/>
+	<SubTexture name="FontEur4atl0030" x="115" y="1092" width="34" height="35" frameX="-4" frameY="-10" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0031" x="2043" y="178" width="3" height="34" frameX="-10" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0032" x="1440" y="654" width="4" height="11" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0033" x="1189" y="1777" width="16" height="26" frameX="-3" frameY="-18" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0034" x="2041" y="331" width="5" height="26" frameX="-5" frameY="-18" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0035" x="299" y="1720" width="27" height="26" frameX="-1" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0036" x="100" y="1782" width="18" height="19" frameX="-3" frameY="-18" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0037" x="620" y="790" width="20" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0038" x="1357" y="1748" width="22" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0039" x="1407" y="1739" width="25" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0040" x="1735" y="1783" width="17" height="19" frameX="-3" frameY="-18" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0041" x="1434" y="1739" width="25" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0042" x="1184" y="1749" width="22" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0043" x="619" y="1752" width="21" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0044" x="1629" y="1780" width="19" height="19" frameX="-3" frameY="-18" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0045" x="1043" y="1753" width="20" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0046" x="1085" y="1769" width="12" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0047" x="693" y="1720" width="27" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0048" x="436" y="1747" width="22" height="27" frameX="-3" frameY="-18" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0049" x="901" y="1740" width="25" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0050" x="1304" y="1752" width="21" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0051" x="2036" y="594" width="10" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0052" x="142" y="1485" width="9" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0053" x="375" y="1377" width="13" height="33" frameX="0" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0054" x="370" y="1133" width="9" height="33" frameX="-1" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0055" x="411" y="1747" width="23" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0056" x="1633" y="1752" width="21" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0057" x="1025" y="1412" width="19" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0058" x="2036" y="622" width="10" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0059" x="904" y="1712" width="31" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0060" x="1547" y="1286" width="31" height="19" frameX="-2" frameY="-18" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0061" x="1184" y="1721" width="26" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0062" x="61" y="1779" width="21" height="19" frameX="-2" frameY="-18" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0063" x="722" y="1720" width="27" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0064" x="2004" y="1780" width="19" height="19" frameX="-3" frameY="-18" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0065" x="1835" y="1753" width="20" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0066" x="2013" y="1752" width="21" height="26" frameX="-2" frameY="-18" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0067" x="540" y="1395" width="27" height="30" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0068" x="356" y="1750" width="22" height="26" frameX="-3" frameY="-18" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0069" x="1208" y="1750" width="22" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0070" x="206" y="1793" width="15" height="19" frameX="-2" frameY="-18" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0071" x="743" y="1774" width="17" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0072" x="1099" y="1793" width="15" height="19" frameX="-3" frameY="-18" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0073" x="460" y="1753" width="21" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0074" x="1136" y="1786" width="9" height="24" frameX="-3" frameY="-13" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0075" x="1903" y="1745" width="24" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0076" x="167" y="1781" width="20" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0077" x="751" y="1720" width="27" height="26" frameX="-1" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0078" x="1225" y="1779" width="21" height="18" frameX="-1" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0079" x="552" y="1040" width="37" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0080" x="381" y="1020" width="29" height="18" frameX="-1" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0081" x="1987" y="1745" width="24" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0082" x="455" y="1781" width="20" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0083" x="1461" y="1740" width="25" height="26" frameX="-1" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0084" x="1149" y="1754" width="20" height="25" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0085" x="99" y="1754" width="20" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0086" x="465" y="1659" width="16" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0087" x="1940" y="1683" width="27" height="33" frameX="-1" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0088" x="506" y="1769" width="18" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0089" x="809" y="1720" width="21" height="33" frameX="-3" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0090" x="1715" y="1755" width="19" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0091" x="205" y="1733" width="21" height="32" frameX="-3" frameY="-5" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0092" x="1439" y="1767" width="19" height="25" frameX="-3" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0093" x="1265" y="1631" width="11" height="32" frameX="-2" frameY="-5" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0094" x="2033" y="1105" width="11" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0095" x="1874" y="1772" width="19" height="24" frameX="-6" frameY="-13" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0096" x="1874" y="1772" width="19" height="24" frameX="-6" frameY="-13" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0097" x="1969" y="1683" width="27" height="33" frameX="-1" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0098" x="1065" y="1769" width="18" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0099" x="832" y="1720" width="21" height="33" frameX="-3" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0100" x="1736" y="1755" width="19" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0101" x="855" y="1720" width="21" height="33" frameX="-3" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0102" x="1757" y="1755" width="19" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0103" x="957" y="421" width="10" height="33" frameX="-3" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0104" x="1314" y="1780" width="9" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0105" x="547" y="1629" width="11" height="33" frameX="-2" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0106" x="1265" y="1779" width="12" height="26" frameX="-1" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0107" x="1998" y="1683" width="27" height="33" frameX="-3" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0108" x="1778" y="1755" width="19" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0109" x="1167" y="1686" width="27" height="33" frameX="-3" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0110" x="2" y="1756" width="19" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0111" x="460" y="1718" width="24" height="33" frameX="-2" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0112" x="121" y="1754" width="20" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0113" x="972" y="1718" width="24" height="33" frameX="-2" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0114" x="642" y="1754" width="20" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0115" x="508" y="1679" width="35" height="26" frameX="0" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0116" x="1481" y="1437" width="30" height="19" frameX="-3" frameY="-18" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0117" x="780" y="1720" width="27" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0118" x="2025" y="1780" width="19" height="19" frameX="-3" frameY="-18" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0119" x="1196" y="1686" width="27" height="33" frameX="-1" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0120" x="570" y="1317" width="18" height="27" frameX="-3" frameY="-10" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0121" x="1415" y="1705" width="27" height="32" frameX="-1" frameY="-5" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0122" x="1757" y="1674" width="18" height="25" frameX="-3" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0123" x="1444" y="1705" width="27" height="32" frameX="-3" frameY="-5" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0124" x="249" y="1768" width="19" height="25" frameX="-3" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0125" x="46" y="1677" width="17" height="33" frameX="-3" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0126" x="1959" y="1778" width="15" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0127" x="878" y="1720" width="21" height="33" frameX="-2" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0128" x="355" y="1778" width="16" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0129" x="348" y="1688" width="27" height="33" frameX="-3" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0130" x="228" y="1757" width="19" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0131" x="2020" y="1718" width="24" height="32" frameX="-2" frameY="-5" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0132" x="796" y="1755" width="20" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0133" x="483" y="1753" width="21" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0134" x="1501" y="1710" width="26" height="32" frameX="-2" frameY="-5" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0135" x="315" y="1779" width="15" height="25" frameX="-3" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0136" x="377" y="1688" width="27" height="33" frameX="-1" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0137" x="1656" y="1769" width="18" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0138" x="336" y="1751" width="17" height="32" frameX="-4" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0139" x="970" y="1787" width="12" height="24" frameX="-3" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0140" x="1076" y="1736" width="21" height="31" frameX="-3" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0141" x="1966" y="1600" width="11" height="29" frameX="-2" frameY="-14" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0142" x="592" y="1709" width="25" height="34" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0143" x="1696" y="1769" width="17" height="27" frameX="-3" frameY="-18" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0144" x="1253" y="1717" width="25" height="32" frameX="-3" frameY="-5" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0145" x="983" y="1753" width="17" height="32" frameX="-3" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0146" x="360" y="1450" width="12" height="31" frameX="-2" frameY="-6" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0147" x="2025" y="178" width="9" height="18" frameX="-3" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0148" x="998" y="1718" width="24" height="33" frameX="-3" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0149" x="1207" y="1778" width="16" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0150" x="855" y="1631" width="26" height="33" frameX="-2" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0151" x="1676" y="1769" width="18" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0152" x="178" y="1682" width="35" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0153" x="339" y="1175" width="32" height="19" frameX="-3" frameY="-18" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0154" x="1024" y="1718" width="24" height="33" frameX="-2" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0155" x="664" y="1754" width="20" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0156" x="1280" y="1717" width="25" height="32" frameX="-1" frameY="-5" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0157" x="1611" y="1744" width="20" height="32" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0158" x="215" y="1698" width="27" height="33" frameX="-1" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0159" x="526" y="1771" width="18" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0160" x="1473" y="1705" width="26" height="33" frameX="-2" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0161" x="960" y="1753" width="21" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0162" x="1173" y="421" width="10" height="33" frameX="-3" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0163" x="2036" y="650" width="10" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0164" x="244" y="1698" width="27" height="33" frameX="-3" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0165" x="1099" y="1765" width="19" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0166" x="508" y="1707" width="26" height="33" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0167" x="1248" y="1779" width="15" height="25" frameX="-3" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0168" x="1280" y="1751" width="22" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0169" x="2036" y="1752" width="10" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0170" x="1102" y="1698" width="27" height="33" frameX="-1" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0171" x="546" y="1771" width="18" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0172" x="1669" y="1736" width="21" height="31" frameX="-2" frameY="-6" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0173" x="788" y="1469" width="16" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0174" x="1360" y="1713" width="22" height="33" frameX="-3" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0175" x="1819" y="1778" width="14" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0176" x="1852" y="1719" width="22" height="32" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0177" x="1036" y="1781" width="14" height="25" frameX="-3" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0178" x="182" y="1746" width="17" height="33" frameX="-4" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0179" x="672" y="1782" width="12" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0180" x="1765" y="1720" width="21" height="33" frameX="-2" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0181" x="1280" y="1778" width="16" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0182" x="1307" y="1717" width="22" height="33" frameX="-3" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0183" x="614" y="1780" width="14" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0184" x="592" y="1745" width="25" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0185" x="566" y="1771" width="18" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0186" x="1557" y="1710" width="25" height="33" frameX="-2" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0187" x="1929" y="1750" width="22" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0188" x="1645" y="1717" width="22" height="33" frameX="-2" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0189" x="1020" y="1780" width="14" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0190" x="1131" y="1698" width="27" height="33" frameX="-1" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0191" x="1381" y="1771" width="18" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0192" x="1584" y="1710" width="25" height="33" frameX="-2" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0193" x="163" y="1264" width="13" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0194" x="1788" y="1720" width="21" height="33" frameX="-3" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0195" x="1611" y="1778" width="16" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0196" x="536" y="1709" width="26" height="33" frameX="-2" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0197" x="1480" y="1771" width="18" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0198" x="1877" y="1710" width="25" height="33" frameX="-1" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0199" x="486" y="1718" width="20" height="33" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0200" x="1953" y="1750" width="22" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0201" x="1298" y="1780" width="14" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0202" x="645" y="1719" width="22" height="33" frameX="-2" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0203" x="1140" y="1168" width="9" height="33" frameX="-3" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0204" x="1904" y="1710" width="25" height="33" frameX="-2" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0205" x="1811" y="1720" width="13" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0206" x="1931" y="1718" width="26" height="30" frameX="-2" frameY="-7" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0207" x="143" y="1754" width="15" height="23" frameX="-3" frameY="-14" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0208" x="1102" y="1733" width="22" height="30" frameX="-2" frameY="-7" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0209" x="1754" y="1783" width="14" height="23" frameX="-3" frameY="-14" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0210" x="178" y="1710" width="25" height="34" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0211" x="1834" y="997" width="17" height="35" frameX="-3" frameY="-9" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0212" x="841" y="1681" width="12" height="30" frameX="-2" frameY="-7" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0213" x="256" y="1795" width="12" height="23" frameX="-1" frameY="-14" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0214" x="1670" y="1701" width="27" height="33" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0215" x="1712" y="1260" width="19" height="34" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0216" x="669" y="1719" width="22" height="33" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0217" x="1173" y="456" width="9" height="34" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0218" x="1699" y="1701" width="27" height="33" frameX="-1" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0219" x="1500" y="1771" width="18" height="26" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0220" x="1826" y="1719" width="24" height="30" frameX="-3" frameY="-7" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0221" x="160" y="1721" width="16" height="23" frameX="-3" frameY="-14" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0222" x="406" y="1712" width="25" height="33" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0223" x="781" y="1775" width="13" height="26" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0224" x="1959" y="1718" width="26" height="30" frameX="-2" frameY="-7" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0225" x="1799" y="1778" width="18" height="23" frameX="-2" frameY="-14" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0226" x="136" y="1721" width="22" height="31" frameX="-2" frameY="-6" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0227" x="1149" y="1781" width="14" height="25" frameX="-3" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0228" x="1968" y="200" width="12" height="32" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0229" x="1243" y="1219" width="9" height="33" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0230" x="1529" y="1710" width="26" height="32" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0231" x="1591" y="1772" width="18" height="25" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0232" x="328" y="1723" width="26" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0233" x="1840" y="1203" width="15" height="18" frameX="-3" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0234" x="818" y="1755" width="20" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0235" x="399" y="1775" width="17" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0236" x="771" y="1748" width="23" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0237" x="984" y="1787" width="16" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0238" x="840" y="1755" width="20" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0239" x="1362" y="1796" width="15" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0240" x="619" y="1719" width="24" height="31" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0241" x="385" y="1723" width="18" height="22" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0242" x="1811" y="1751" width="22" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0243" x="1067" y="1797" width="14" height="18" frameX="-3" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0244" x="495" y="1538" width="32" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0245" x="1513" y="1437" width="25" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0246" x="762" y="1775" width="17" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0247" x="1083" y="1797" width="14" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0248" x="508" y="1742" width="26" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0249" x="120" y="1782" width="19" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0250" x="25" y="1746" width="24" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0251" x="796" y="1782" width="18" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0252" x="1331" y="1746" width="24" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0253" x="816" y="1782" width="18" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0254" x="1611" y="1717" width="32" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0255" x="143" y="1779" width="22" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0256" x="536" y="1744" width="26" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0257" x="630" y="1782" width="19" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0258" x="51" y="1746" width="24" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0259" x="1002" y="1788" width="16" height="18" frameX="-3" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0260" x="564" y="1744" width="26" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0261" x="651" y="1782" width="19" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0262" x="884" y="1768" width="19" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0263" x="1327" y="1773" width="18" height="25" frameX="-1" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0264" x="312" y="1751" width="22" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0265" x="1650" y="1797" width="14" height="18" frameX="-3" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0266" x="1020" y="1753" width="21" height="25" frameX="-3" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0267" x="1560" y="1790" width="16" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0268" x="1544" y="1745" width="25" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0269" x="1895" y="1773" width="18" height="25" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0270" x="356" y="1723" width="27" height="25" frameX="-3" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0271" x="2" y="1721" width="21" height="33" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0272" x="1488" y="1744" width="26" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0273" x="836" y="1782" width="18" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0274" x="1332" y="1713" width="26" height="31" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0275" x="993" y="1249" width="19" height="22" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0276" x="385" y="1747" width="24" height="25" frameX="-1" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0277" x="856" y="1782" width="18" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0278" x="1728" y="1701" width="35" height="25" frameX="-3" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0279" x="1120" y="1766" width="27" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0280" x="564" y="1709" width="26" height="33" frameX="-2" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0281" x="905" y="1768" width="19" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0282" x="302" y="1587" width="35" height="31" frameX="-3" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0283" x="283" y="1748" width="27" height="22" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0284" x="862" y="1755" width="20" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0285" x="270" y="1792" width="16" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0286" x="747" y="1538" width="36" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0287" x="270" y="1772" width="26" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0288" x="1571" y="1745" width="25" height="25" frameX="-1" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0289" x="586" y="1792" width="16" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0290" x="339" y="1587" width="16" height="30" frameX="-2" frameY="-7" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0291" x="921" y="1796" width="13" height="21" frameX="-2" frameY="-16" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0292" x="1232" y="1751" width="22" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0293" x="1666" y="1797" width="14" height="18" frameX="-3" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0294" x="1418" y="1785" width="12" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0295" x="1788" y="1783" width="9" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0296" x="1964" y="1567" width="12" height="31" frameX="-2" frameY="-6" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0297" x="1212" y="1721" width="11" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0298" x="1876" y="1745" width="25" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0299" x="1715" y="1783" width="18" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0300" x="1160" y="1721" width="22" height="31" frameX="-2" frameY="-6" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0301" x="1835" y="1781" width="14" height="25" frameX="-3" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0302" x="1256" y="1751" width="22" height="26" frameX="-3" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0303" x="1448" y="1796" width="15" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0304" x="1987" y="1718" width="31" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0305" x="1347" y="1776" width="24" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0306" x="433" y="1712" width="25" height="33" frameX="-2" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0307" x="972" y="1621" width="18" height="32" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0308" x="46" y="1719" width="31" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0309" x="586" y="1772" width="26" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0310" x="79" y="1719" width="31" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0311" x="1977" y="1773" width="25" height="18" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0312" x="1225" y="1717" width="26" height="31" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0313" x="25" y="1721" width="19" height="22" frameX="-2" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0314" x="84" y="1782" width="14" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0315" x="411" y="1621" width="9" height="33" frameX="0" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0316" x="1728" y="1728" width="27" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0317" x="1520" y="1771" width="18" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0318" x="1516" y="1744" width="26" height="25" frameX="-2" frameY="-12" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0319" x="1002" y="1753" width="16" height="33" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0320" x="926" y="1496" width="20" height="34" frameX="-2" frameY="-3" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0321" x="298" y="1779" width="15" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0322" x="1050" y="1718" width="24" height="33" frameX="-2" frameY="-4" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0323" x="1540" y="1772" width="18" height="26" frameX="-2" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0324" x="418" y="1776" width="17" height="26" frameX="-4" frameY="-11" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0325" x="526" y="1799" width="12" height="18" frameX="-3" frameY="-19" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0326" x="1874" y="1772" width="19" height="24" frameX="-6" frameY="-13" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0327" x="1874" y="1772" width="19" height="24" frameX="-6" frameY="-13" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0328" x="1874" y="1772" width="19" height="24" frameX="-6" frameY="-13" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0329" x="1874" y="1772" width="19" height="24" frameX="-6" frameY="-13" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0330" x="1874" y="1772" width="19" height="24" frameX="-6" frameY="-13" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="FontEur4atl0331" x="304" y="1239" width="32" height="47" frameX="0" frameY="0" frameWidth="40" frameHeight="47"/>
+	<SubTexture name="GraphLine4atl0000" x="1986" y="1035" width="8" height="20" pivotX="4" pivotY="10"/>
+	<SubTexture name="GraphNode4atl0000" x="745" y="1748" width="24" height="24" pivotX="12" pivotY="12"/>
+	<SubTexture name="Hammer4atl0000" x="1458" y="1007" width="53" height="78" pivotX="42.65" pivotY="77.85"/>
+	<SubTexture name="HammerEngine4atl0000" x="904" y="1671" width="39" height="39" pivotX="21" pivotY="21" frameX="-2" frameY="-2" frameWidth="42" frameHeight="42"/>
+	<SubTexture name="HammerEngine4atl0001" x="624" y="1675" width="42" height="42"/>
+	<SubTexture name="HammerEngine4atl0002" x="668" y="1675" width="42" height="42"/>
+	<SubTexture name="HelpRotArrow4atl0000" x="1584" y="1206" width="147" height="52" pivotX="73.75" pivotY="51"/>
+	<SubTexture name="InnerCogwheelTooth4atl0000" x="1433" y="1508" width="29" height="17" pivotX="1" pivotY="1"/>
+	<SubTexture name="Isl_AntennaPost4atl0000" x="547" y="1677" width="58" height="30" pivotX="29" pivotY="15"/>
+	<SubTexture name="Isl_BankBuilding4atl0000" x="1046" y="867" width="207" height="135" pivotX="103.15" pivotY="67.35"/>
+	<SubTexture name="Isl_ChainLink4atl0000" x="1347" y="1796" width="13" height="21" pivotX="6.9" pivotY="10.5"/>
+	<SubTexture name="Isl_ChainLink4atl0001" x="2037" y="280" width="9" height="21" frameX="-2" frameY="0" frameWidth="13" frameHeight="21"/>
+	<SubTexture name="Isl_FlagPost4atl0000" x="1173" y="282" width="8" height="57" pivotX="4" pivotY="28.95"/>
+	<SubTexture name="Isl_LeonardoPlaneBackWing4atl0000" x="1192" y="1367" width="46" height="53" pivotX="22.7" pivotY="26.4"/>
+	<SubTexture name="Isl_LeonardoPlaneBody4atl0000" x="1744" y="1002" width="88" height="27" pivotX="44" pivotY="13.6"/>
+	<SubTexture name="Isl_LeonardoPlaneFrontWing4atl0000" x="1458" y="1087" width="53" height="27" pivotX="26.5" pivotY="13.45"/>
+	<SubTexture name="Isl_Lighning4atl0000" x="1996" y="866" width="31" height="151" pivotX="15.5" pivotY="74.45"/>
+	<SubTexture name="Isl_OilPump4atl0000" x="759" y="1088" width="153" height="77" pivotX="76.5" pivotY="38.4"/>
+	<SubTexture name="Isl_ParabollicAntenna4atl0000" x="1377" y="503" width="69" height="127" pivotX="34.75" pivotY="63.15"/>
+	<SubTexture name="Isl_RWY4atl0000" x="678" y="258" width="131" height="15" pivotX="65.45" pivotY="7.5"/>
+	<SubTexture name="Isl_SmallTowerStand4atl0000" x="1697" y="1532" width="45" height="81" pivotX="22.7" pivotY="40.5"/>
+	<SubTexture name="Isl_ThunderReceiver4atl0000" x="720" y="1180" width="36" height="58" pivotX="18" pivotY="30"/>
+	<SubTexture name="Isl_bridgeFarm4atl0000" x="1608" y="1117" width="127" height="87" pivotX="63.4" pivotY="43.5"/>
+	<SubTexture name="Isl_hideCloud4atl0000" x="1854" y="679" width="192" height="185" pivotX="95.55" pivotY="92.6"/>
+	<SubTexture name="Isl_mineExit4atl0000" x="530" y="1119" width="97" height="97" pivotX="53.35" pivotY="48.35"/>
+	<SubTexture name="Isl_moneyChest4atl0000" x="759" y="1167" width="134" height="73" pivotX="67" pivotY="36.55"/>
+	<SubTexture name="Isl_rectFarm4atl0000" x="1215" y="1004" width="51" height="89" pivotX="25.15" pivotY="44.35"/>
+	<SubTexture name="Isl_rope4atl0000" x="2037" y="178" width="4" height="100" pivotX="2" pivotY="20"/>
+	<SubTexture name="Isl_singleFrameElement4atl0000" x="957" y="282" width="8" height="102" pivotX="4" pivotY="54"/>
+	<SubTexture name="Isl_transportHook4atl0000" x="494" y="1271" width="21" height="37" pivotX="10.35" pivotY="18.4"/>
+	<SubTexture name="Isl_windSock4atl0000" x="1584" y="1260" width="126" height="47" pivotX="64.6" pivotY="23.7"/>
+	<SubTexture name="LockedMark4atl0000" x="1980" y="1565" width="64" height="64" pivotX="1" pivotY="1"/>
+	<SubTexture name="ManipulatorSegment4atl0000" x="1812" y="881" width="33" height="114" pivotX="32.5" pivotY="113.5"/>
+	<SubTexture name="MarkerArrow4atl0000" x="1982" y="305" width="57" height="89" pivotX="28.8" pivotY="87.6"/>
+	<SubTexture name="Mine4atl0000" x="678" y="282" width="277" height="188" pivotX="138.9" pivotY="185.1"/>
+	<SubTexture name="MineLight4atl0000" x="1733" y="1229" width="79" height="80" pivotX="39.35" pivotY="80.2"/>
+	<SubTexture name="MoneyArrow4atl0000" x="632" y="717" width="7" height="37" pivotX="3.5" pivotY="18.65"/>
+	<SubTexture name="MoneyIndicator4atl0000" x="712" y="1677" width="41" height="41" pivotX="20.9" pivotY="20.8"/>
+	<SubTexture name="MoneyMachineFarm4atl0000" x="1912" y="1499" width="66" height="66" pivotX="5.55" pivotY="24.15"/>
+	<SubTexture name="MoneyPocket4atl0000" x="1516" y="973" width="57" height="27" pivotX="11.95" pivotY="26.3"/>
+	<SubTexture name="MoneyProducer4atl0000" x="704" y="892" width="163" height="94" pivotX="51.7" pivotY="47"/>
+	<SubTexture name="MoneyProgressGauge4atl0000" x="438" y="297" width="14" height="69" pivotX="2.25" pivotY="11.4"/>
+	<SubTexture name="MoneyProgressGauge4atl0001" x="438" y="368" width="14" height="69"/>
+	<SubTexture name="MoneyProgressGauge4atl0002" x="438" y="439" width="14" height="69"/>
+	<SubTexture name="MoneyProgressGauge4atl0003" x="2029" y="866" width="14" height="69"/>
+	<SubTexture name="MoneyProgressOverlay4atl0000" x="2025" y="460" width="17" height="71" pivotX="3.35" pivotY="12.6"/>
+	<SubTexture name="MoneyWindowOverlay4atl0000" x="732" y="1352" width="72" height="72" pivotX="12.65" pivotY="12.65"/>
+	<SubTexture name="Moneyreceiver4atl0000" x="632" y="1083" width="125" height="95" pivotX="62" pivotY="47"/>
+	<SubTexture name="NarrMachine4atl0000" x="1857" y="1035" width="127" height="95" pivotX="63.45" pivotY="47.95"/>
+	<SubTexture name="NarrMachinePanel4atl0000" x="2" y="1142" width="86" height="27" pivotX="43" pivotY="13.25"/>
+	<SubTexture name="PistonBase4atl0000" x="1840" y="1148" width="15" height="53" pivotX="7.55" pivotY="26.35"/>
+	<SubTexture name="PortalCircles4atl0000" x="2" y="516" width="200" height="200" pivotX="200" pivotY="200"/>
+	<SubTexture name="PortalCover4atl0000" x="455" y="258" width="221" height="253" pivotX="239.55" pivotY="252.5"/>
+	<SubTexture name="PortalSpiral4atl0000" x="969" y="282" width="202" height="202" pivotX="201" pivotY="201"/>
+	<SubTexture name="RailPart4atl0000" x="1345" y="1120" width="43" height="17" pivotX="21.15" pivotY="18"/>
+	<SubTexture name="RingEffect4atl0000" x="693" y="1748" width="24" height="24" pivotX="12" pivotY="12"/>
+	<SubTexture name="RingEffect4atl0001" x="719" y="1748" width="24" height="24"/>
+	<SubTexture name="RingLine4atl0000" x="957" y="456" width="10" height="12" pivotX="5" pivotY="6"/>
+	<SubTexture name="RingNode4atl0000" x="422" y="705" width="10" height="10" pivotX="5" pivotY="5"/>
+	<SubTexture name="SFDebris4atl0000" x="1510" y="1656" width="52" height="52" pivotX="26" pivotY="69.5" frameX="0" frameY="-43" frameWidth="52" frameHeight="112"/>
+	<SubTexture name="SFDebris4atl0001" x="1564" y="1656" width="52" height="52" frameX="0" frameY="-43" frameWidth="52" frameHeight="112"/>
+	<SubTexture name="SFDebris4atl0002" x="972" y="1666" width="50" height="50" frameX="-2" frameY="-46" frameWidth="52" frameHeight="112"/>
+	<SubTexture name="SFDebris4atl0003" x="946" y="1621" width="24" height="112" frameX="-12" frameY="0" frameWidth="52" frameHeight="112"/>
+	<SubTexture name="SFDebris4atl0004" x="1857" y="1753" width="15" height="31" frameX="-20" frameY="-53" frameWidth="52" frameHeight="112"/>
+	<SubTexture name="SFDebris4atl0005" x="77" y="1746" width="20" height="31" frameX="-17" frameY="-53" frameWidth="52" frameHeight="112"/>
+	<SubTexture name="SFDebris4atl0006" x="181" y="843" width="21" height="31" frameX="-16" frameY="-53" frameWidth="52" frameHeight="112"/>
+	<SubTexture name="SFDebris4atl0007" x="90" y="1142" width="22" height="31" frameX="-16" frameY="-53" frameWidth="52" frameHeight="112"/>
+	<SubTexture name="SFDebris4atl0008" x="1126" y="1733" width="21" height="31" frameX="-16" frameY="-53" frameWidth="52" frameHeight="112"/>
+	<SubTexture name="SFDebris4atl0009" x="260" y="1735" width="21" height="31" frameX="-17" frameY="-53" frameWidth="52" frameHeight="112"/>
+	<SubTexture name="SFDebris4atl0010" x="2027" y="1669" width="19" height="31" frameX="-18" frameY="-53" frameWidth="52" frameHeight="112"/>
+	<SubTexture name="SFDebris4atl0011" x="112" y="1721" width="22" height="31" frameX="-16" frameY="-53" frameWidth="52" frameHeight="112"/>
+	<SubTexture name="SFDebris4atl0012" x="160" y="1746" width="20" height="31" frameX="-17" frameY="-53" frameWidth="52" frameHeight="112"/>
+	<SubTexture name="SFDebris4atl0013" x="937" y="1735" width="21" height="31" frameX="-17" frameY="-53" frameWidth="52" frameHeight="112"/>
+	<SubTexture name="SFDebris4atl0014" x="2" y="2" width="0" height="0" frameX="-26" frameY="-69" frameWidth="52" frameHeight="112"/>
+	<SubTexture name="SFElem14atl0000" x="495" y="1568" width="64" height="59" pivotX="64.35" pivotY="59.2"/>
+	<SubTexture name="SFElem24atl0000" x="381" y="1068" width="249" height="49" pivotX="249.3" pivotY="49"/>
+	<SubTexture name="SFElem34atl0000" x="1270" y="707" width="73" height="430" pivotX="73.1" pivotY="430"/>
+	<SubTexture name="SFElem44atl0000" x="155" y="917" width="439" height="40" pivotX="439" pivotY="40.9"/>
+	<SubTexture name="ShopItemButton4atl0000" x="1980" y="1499" width="64" height="64" pivotX="6.3" pivotY="8.45" frameX="-5" frameY="-7" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0001" x="291" y="1521" width="64" height="64" frameX="-5" frameY="-7" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0002" x="1233" y="1530" width="64" height="64" frameX="-5" frameY="-7" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0003" x="1433" y="1530" width="64" height="64" frameX="-5" frameY="-7" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0004" x="1499" y="1530" width="64" height="64" frameX="-5" frameY="-7" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0005" x="1565" y="1532" width="64" height="64" frameX="-5" frameY="-7" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0006" x="1631" y="1532" width="64" height="64" frameX="-5" frameY="-7" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0007" x="429" y="1538" width="64" height="64" frameX="-5" frameY="-7" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0008" x="1299" y="1543" width="64" height="64" frameX="-5" frameY="-7" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0009" x="1365" y="1543" width="64" height="64" frameX="-5" frameY="-7" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0010" x="71" y="1555" width="64" height="64" frameX="-5" frameY="-7" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0011" x="357" y="1555" width="64" height="64" frameX="-5" frameY="-7" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0012" x="926" y="1555" width="64" height="64" frameX="-5" frameY="-7" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0013" x="1826" y="1555" width="64" height="64" frameX="-5" frameY="-7" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0014" x="2" y="1561" width="64" height="64" frameX="-5" frameY="-7" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0015" x="600" y="1561" width="64" height="64" frameX="-5" frameY="-7" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0016" x="1579" y="803" width="71" height="71" frameX="-2" frameY="-4" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0017" x="806" y="1352" width="71" height="71" frameX="-2" frameY="-4" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0018" x="879" y="1352" width="71" height="71" frameX="-2" frameY="-4" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0019" x="1394" y="1364" width="71" height="71" frameX="-2" frameY="-4" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0020" x="1467" y="1364" width="71" height="71" frameX="-2" frameY="-4" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0021" x="1046" y="1367" width="71" height="71" frameX="-2" frameY="-4" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0022" x="1119" y="1367" width="71" height="71" frameX="-2" frameY="-4" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0023" x="156" y="1371" width="71" height="71" frameX="-2" frameY="-4" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0024" x="229" y="1371" width="71" height="71" frameX="-2" frameY="-4" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0025" x="302" y="1377" width="71" height="71" frameX="-2" frameY="-4" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0026" x="1540" y="1387" width="71" height="71" frameX="-2" frameY="-4" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0027" x="1613" y="1387" width="71" height="71" frameX="-2" frameY="-4" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0028" x="1686" y="1389" width="71" height="71" frameX="-2" frameY="-4" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0029" x="467" y="1395" width="71" height="71" frameX="-2" frameY="-4" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0030" x="1243" y="1268" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0031" x="1319" y="1268" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0032" x="418" y="1271" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0033" x="590" y="1271" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0034" x="1814" y="1272" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0035" x="1890" y="1272" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0036" x="1966" y="1272" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0037" x="666" y="1274" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0038" x="742" y="1274" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0039" x="818" y="1274" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0040" x="894" y="1274" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0041" x="1395" y="1286" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0042" x="1471" y="1286" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0043" x="1090" y="1289" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0044" x="1166" y="1289" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0045" x="163" y="1293" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0046" x="239" y="1293" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0047" x="315" y="1299" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0048" x="1547" y="1309" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0049" x="1623" y="1309" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0050" x="1699" y="1311" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0051" x="494" y="1317" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0052" x="970" y="1334" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0053" x="80" y="1337" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0054" x="2" y="1342" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0055" x="1242" y="1346" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0056" x="1318" y="1346" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0057" x="391" y="1349" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0058" x="570" y="1349" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0059" x="1775" y="1350" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0060" x="1851" y="1350" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0061" x="1927" y="1350" width="74" height="76"/>
+	<SubTexture name="ShopItemButton4atl0062" x="411" y="1659" width="52" height="51" frameX="-10" frameY="-14" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="ShopItemButton4atl0063" x="1877" y="1674" width="61" height="34" frameX="-6" frameY="-26" frameWidth="74" frameHeight="76"/>
+	<SubTexture name="SignBalloons4atl0000" x="1719" y="243" width="261" height="215" pivotX="130.45" pivotY="107.6"/>
+	<SubTexture name="SteamBase4atl0000" x="365" y="1621" width="44" height="65" pivotX="0.65" pivotY="1.15"/>
+	<SubTexture name="SteamCloud4atl0000" x="78" y="1415" width="73" height="68" pivotX="1" pivotY="1"/>
+	<SubTexture name="Sun4atl0000" x="1024" y="1666" width="50" height="50" pivotX="24.8" pivotY="24.35"/>
+	<SubTexture name="Sun4atl0001" x="811" y="258" width="32" height="22" frameX="-3" frameY="-14" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="Tank4atl0000" x="1011" y="892" width="24" height="68" pivotX="3.05" pivotY="1" frameX="-2" frameY="0" frameWidth="27" frameHeight="68"/>
+	<SubTexture name="Tank4atl0001" x="1076" y="1666" width="24" height="68" frameX="-2" frameY="0" frameWidth="27" frameHeight="68"/>
+	<SubTexture name="Tank4atl0002" x="642" y="513" width="27" height="68"/>
+	<SubTexture name="TooltipArrow4atl0000" x="1516" y="886" width="57" height="85" pivotX="28.3" pivotY="84.1"/>
+	<SubTexture name="TooltipBase4atl0000" x="405" y="819" width="297" height="96" pivotX="148.25" pivotY="85.05"/>
+	<SubTexture name="Wagon4atl0000" x="1744" y="1569" width="75" height="46" pivotX="37.45" pivotY="45.85"/>
+	<SubTexture name="WorldsIcons4atl0000" x="642" y="617" width="200" height="200" pivotX="0" pivotY="-1"/>
+	<SubTexture name="WorldsIcons4atl0001" x="1652" y="679" width="200" height="200"/>
+	<SubTexture name="WorldsIcons4atl0002" x="1377" y="684" width="200" height="200"/>
+	<SubTexture name="ZeppelinFan4atl0000" x="1173" y="341" width="9" height="43" pivotX="4.8" pivotY="21.5"/>
+	<SubTexture name="airConvoy4atl0000" x="1448" y="243" width="269" height="235" pivotX="134.85" pivotY="117.9"/>
+	<SubTexture name="anvil4atl0000" x="1254" y="1208" width="125" height="58" pivotX="1" pivotY="1"/>
+	<SubTexture name="axis4atl0000" x="632" y="1068" width="12" height="12" pivotX="0" pivotY="0"/>
+	<SubTexture name="bar4atl0000" x="926" y="1532" width="20" height="20" pivotX="10" pivotY="10"/>
+	<SubTexture name="bellowHandle4atl0000" x="1652" y="664" width="36" height="11" pivotX="35.9" pivotY="10.65"/>
+	<SubTexture name="bellowNose4atl0000" x="609" y="1473" width="34" height="15" pivotX="33" pivotY="14.95"/>
+	<SubTexture name="bellowsPart4atl0000" x="405" y="790" width="213" height="26" pivotX="212" pivotY="25.5"/>
+	<SubTexture name="bigPiston4atl0000" x="1255" y="948" width="11" height="53" pivotX="1" pivotY="1"/>
+	<SubTexture name="blowingBalloon4atl0000" x="1046" y="690" width="121" height="14" pivotX="1" pivotY="138.65" frameX="-9" frameY="-92" frameWidth="140" frameHeight="106"/>
+	<SubTexture name="blowingBalloon4atl0001" x="992" y="1578" width="121" height="29" frameX="-9" frameY="-77" frameWidth="140" frameHeight="106"/>
+	<SubTexture name="blowingBalloon4atl0002" x="178" y="1239" width="124" height="52" frameX="-8" frameY="-54" frameWidth="140" frameHeight="106"/>
+	<SubTexture name="blowingBalloon4atl0003" x="704" y="819" width="131" height="71" frameX="-5" frameY="-35" frameWidth="140" frameHeight="106"/>
+	<SubTexture name="blowingBalloon4atl0004" x="696" y="988" width="140" height="93" frameX="0" frameY="-13" frameWidth="140" frameHeight="106"/>
+	<SubTexture name="blowingBalloon4atl0005" x="869" y="892" width="140" height="106"/>
+	<SubTexture name="blurChailLink4atl0000" x="1381" y="1208" width="19" height="49" pivotX="-15.75" pivotY="15.75"/>
+	<SubTexture name="blurredCogwheels4atl0000" x="234" y="501" width="202" height="202" pivotX="101" pivotY="101"/>
+	<SubTexture name="blurredCogwheels4atl0001" x="1173" y="503" width="202" height="202"/>
+	<SubTexture name="blurredCogwheels4atl0002" x="438" y="513" width="202" height="202"/>
+	<SubTexture name="blurredCogwheels4atl0003" x="844" y="690" width="200" height="200" frameX="-1" frameY="-1" frameWidth="202" frameHeight="202"/>
+	<SubTexture name="blurredCogwheels4atl0004" x="2" y="2" width="0" height="0" frameX="-101" frameY="-101" frameWidth="202" frameHeight="202"/>
+	<SubTexture name="borderPart4atl0000" x="678" y="275" width="20" height="3" pivotX="10" pivotY="1.5"/>
+	<SubTexture name="buildingParts4atl0000" x="1840" y="1223" width="144" height="47" pivotX="118" pivotY="149" frameX="-46" frameY="-102" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0001" x="596" y="917" width="98" height="149" frameX="-69" frameY="0" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0002" x="1579" y="684" width="67" height="117" frameX="-85" frameY="-32" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0003" x="1982" y="200" width="53" height="103" frameX="-92" frameY="-47" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0004" x="1966" y="1631" width="56" height="50" frameX="-91" frameY="-100" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0005" x="646" y="1352" width="84" height="66" frameX="-76" frameY="-84" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0006" x="1826" y="1499" width="84" height="54" frameX="-76" frameY="-96" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0007" x="914" y="1117" width="236" height="49" frameX="0" frameY="-101" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0008" x="418" y="1197" width="97" height="72" frameX="-70" frameY="-78" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0009" x="2024" y="1631" width="22" height="36" frameX="-107" frameY="-113" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0010" x="1392" y="1609" width="27" height="43" frameX="-105" frameY="-106" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0011" x="1652" y="581" width="63" height="81" frameX="-87" frameY="-68" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0012" x="137" y="1578" width="103" height="35" frameX="-67" frameY="-114" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0013" x="339" y="1197" width="77" height="100" frameX="-80" frameY="-49" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0014" x="1652" y="480" width="63" height="99" frameX="-87" frameY="-50" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0015" x="381" y="1040" width="169" height="22" frameX="-34" frameY="-127" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0016" x="914" y="1088" width="65" height="20" frameX="-86" frameY="-129" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0017" x="375" y="1427" width="85" height="56" frameX="-76" frameY="-93" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0018" x="1598" y="1745" width="10" height="25" frameX="-114" frameY="-125" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0019" x="561" y="1568" width="35" height="42" frameX="-101" frameY="-107" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0020" x="1458" y="1117" width="148" height="76" frameX="-44" frameY="-73" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0021" x="2" y="2" width="0" height="0" frameX="-118" frameY="-149" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0022" x="201" y="1767" width="20" height="24" frameX="-109" frameY="-122" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0023" x="838" y="1000" width="149" height="86" frameX="-44" frameY="-64" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0024" x="155" y="876" width="45" height="38" frameX="-96" frameY="-108" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0025" x="2" y="1222" width="174" height="40" frameX="-32" frameY="-107" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0026" x="2" y="2" width="0" height="0" frameX="-118" frameY="-149" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0027" x="1175" y="1596" width="101" height="33" frameX="-68" frameY="-116" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0028" x="1140" y="1219" width="101" height="68" frameX="-68" frameY="-81" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0029" x="590" y="1218" width="37" height="44" frameX="-100" frameY="-105" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0030" x="2" y="2" width="0" height="0" frameX="-118" frameY="-149" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0031" x="1982" y="396" width="62" height="62" frameX="-87" frameY="-86" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="buildingParts4atl0032" x="1254" y="1139" width="146" height="67" frameX="-2" frameY="-82" frameWidth="236" frameHeight="150"/>
+	<SubTexture name="cannonBarrel4atl0000" x="1996" y="1019" width="35" height="105" pivotX="35.9" pivotY="142.6" frameX="-18" frameY="-39" frameWidth="72" frameHeight="144"/>
+	<SubTexture name="cannonBarrel4atl0001" x="1951" y="460" width="72" height="143" frameX="0" frameY="0" frameWidth="72" frameHeight="144"/>
+	<SubTexture name="cannonBase4atl0000" x="1017" y="1511" width="65" height="65" pivotX="32.6" pivotY="32.65"/>
+	<SubTexture name="cannonCover4atl0000" x="1301" y="1459" width="40" height="40" pivotX="20" pivotY="20"/>
+	<SubTexture name="chailLink4atl0000" x="181" y="790" width="21" height="51" pivotX="-14.75" pivotY="16.75"/>
+	<SubTexture name="cloud4atl0000" x="1558" y="2" width="341" height="239" pivotX="170.1" pivotY="119.55"/>
+	<SubTexture name="coinPropAxis4atl0000" x="2033" y="1007" width="11" height="58" pivotX="5.65" pivotY="30"/>
+	<SubTexture name="crystalBlink4atl0000" x="213" y="1515" width="76" height="55" pivotX="55.45" pivotY="111" frameX="0" frameY="-1" frameWidth="111" frameHeight="111"/>
+	<SubTexture name="crystalBlink4atl0001" x="1547" y="1598" width="56" height="56" frameX="-55" frameY="0" frameWidth="111" frameHeight="111"/>
+	<SubTexture name="crystalBlink4atl0002" x="1155" y="1530" width="76" height="55" frameX="0" frameY="-56" frameWidth="111" frameHeight="111"/>
+	<SubTexture name="crystalBlink4atl0003" x="992" y="1609" width="56" height="55" frameX="-55" frameY="-56" frameWidth="111" frameHeight="111"/>
+	<SubTexture name="crystalBlink4atl0004" x="1720" y="1617" width="55" height="55" frameX="0" frameY="-1" frameWidth="111" frameHeight="111"/>
+	<SubTexture name="crystalBlink4atl0005" x="666" y="1567" width="70" height="56" frameX="-41" frameY="0" frameWidth="111" frameHeight="111"/>
+	<SubTexture name="crystalBlink4atl0006" x="1050" y="1609" width="56" height="55" frameX="0" frameY="-56" frameWidth="111" frameHeight="111"/>
+	<SubTexture name="crystalBlink4atl0007" x="1892" y="1567" width="70" height="55" frameX="-41" frameY="-56" frameWidth="111" frameHeight="111"/>
+	<SubTexture name="crystall4atl0000" x="1631" y="1002" width="111" height="111" pivotX="55.45" pivotY="111"/>
+	<SubTexture name="crystall4atl0001" x="989" y="1004" width="111" height="111"/>
+	<SubTexture name="crystall4atl0002" x="1102" y="1004" width="111" height="111"/>
+	<SubTexture name="crystall4atl0003" x="1345" y="1007" width="111" height="111"/>
+	<SubTexture name="crystall4atl0004" x="155" y="1020" width="111" height="111"/>
+	<SubTexture name="crystall4atl0005" x="268" y="1020" width="111" height="111"/>
+	<SubTexture name="crystall4atl0006" x="2" y="1029" width="111" height="111"/>
+	<SubTexture name="crystall4atl0007" x="1744" y="1035" width="111" height="111"/>
+	<SubTexture name="crystallShakingPart4atl0000" x="1901" y="200" width="65" height="33" pivotX="32.85" pivotY="32.5"/>
+	<SubTexture name="currentSentryMark4atl0000" x="2" y="876" width="151" height="151" pivotX="75.5" pivotY="75.5"/>
+	<SubTexture name="dollarSign4atl0000" x="115" y="1029" width="35" height="61" pivotX="0" pivotY="0"/>
+	<SubTexture name="doorClaw4atl0000" x="1385" y="1705" width="28" height="31" pivotX="0" pivotY="0"/>
+	<SubTexture name="flyingBanner4atl0000" x="155" y="959" width="259" height="59" pivotX="129.9" pivotY="29.15"/>
+	<SubTexture name="gremlin4atl0000" x="1046" y="707" width="222" height="158" pivotX="223.95" pivotY="160.95"/>
+	<SubTexture name="indicArrow4atl0000" x="671" y="513" width="4" height="39" pivotX="0" pivotY="0"/>
+	<SubTexture name="indicBase4atl0000" x="1605" y="1598" width="56" height="56" pivotX="2" pivotY="2"/>
+	<SubTexture name="islandLandscape4atl0000" x="2" y="2" width="451" height="293" pivotX="225.1" pivotY="177" frameX="0" frameY="0" frameWidth="451" frameHeight="304"/>
+	<SubTexture name="islandLandscape4atl0001" x="455" y="2" width="389" height="254" frameX="-31" frameY="-50" frameWidth="451" frameHeight="304"/>
+	<SubTexture name="islandLandscape4atl0002" x="1185" y="2" width="371" height="238" frameX="-37" frameY="-55" frameWidth="451" frameHeight="304"/>
+	<SubTexture name="islandTopStones4atl0000" x="1185" y="242" width="261" height="259" pivotX="130.75" pivotY="129.1"/>
+	<SubTexture name="islansBase4atl0000" x="846" y="2" width="337" height="278" pivotX="168.2" pivotY="138.25"/>
+	<SubTexture name="lantern4atl0000" x="1402" y="1120" width="47" height="71" pivotX="23.35" pivotY="35.25"/>
+	<SubTexture name="lanternBack4atl0000" x="1090" y="1247" width="45" height="40" pivotX="22.35" pivotY="20.05"/>
+	<SubTexture name="lanternLight4atl0000" x="204" y="666" width="27" height="37" pivotX="13.3" pivotY="18.45"/>
+	<SubTexture name="levelInformerBase4atl0000" x="2" y="1677" width="42" height="42" pivotX="21" pivotY="21"/>
+	<SubTexture name="lightPart4atl0000" x="2025" y="533" width="19" height="59" pivotX="14.45" pivotY="33.8" frameX="-7" frameY="0" frameWidth="31" frameHeight="59"/>
+	<SubTexture name="lightPart4atl0001" x="429" y="1485" width="30" height="40" frameX="-1" frameY="-11" frameWidth="31" frameHeight="59"/>
+	<SubTexture name="lightPart4atl0002" x="1345" y="847" width="30" height="31" frameX="0" frameY="-13" frameWidth="31" frameHeight="59"/>
+	<SubTexture name="lightningFlash4atl0000" x="2" y="297" width="230" height="217" pivotX="121.9" pivotY="106.5"/>
+	<SubTexture name="lightningFlash4atl0001" x="1719" y="460" width="230" height="217"/>
+	<SubTexture name="moneySpeedBase4atl0000" x="1301" y="1508" width="130" height="33" pivotX="0" pivotY="0"/>
+	<SubTexture name="ore4atl0000" x="1377" y="632" width="61" height="48" pivotX="30.9" pivotY="47"/>
+	<SubTexture name="ore4atl0001" x="302" y="1621" width="61" height="48"/>
+	<SubTexture name="ore4atl0002" x="883" y="1621" width="61" height="48"/>
+	<SubTexture name="ore4atl0003" x="1777" y="1621" width="61" height="48"/>
+	<SubTexture name="ore4atl0004" x="1840" y="1624" width="61" height="48"/>
+	<SubTexture name="ore4atl0005" x="1903" y="1624" width="61" height="48"/>
+	<SubTexture name="ore4atl0006" x="666" y="1625" width="61" height="48"/>
+	<SubTexture name="ore4atl0007" x="2" y="1627" width="61" height="48"/>
+	<SubTexture name="ore4atl0008" x="561" y="1627" width="61" height="48"/>
+	<SubTexture name="ore4atl0009" x="729" y="1627" width="61" height="48"/>
+	<SubTexture name="ore4atl0010" x="1377" y="632" width="61" height="48"/>
+	<SubTexture name="ore4atl0011" x="484" y="1629" width="61" height="48"/>
+	<SubTexture name="ore4atl0012" x="792" y="1631" width="61" height="48"/>
+	<SubTexture name="parArcHalf4atl0000" x="2" y="718" width="177" height="156" pivotX="88.45" pivotY="78.05"/>
+	<SubTexture name="parBalloon4atl0000" x="1017" y="1247" width="71" height="85" pivotX="35.6" pivotY="42.25"/>
+	<SubTexture name="parCity4atl0000" x="678" y="472" width="289" height="143" pivotX="144.65" pivotY="71.3"/>
+	<SubTexture name="parCloud4atl0000" x="1345" y="886" width="169" height="119" pivotX="84.3" pivotY="59"/>
+	<SubTexture name="parCog4atl0000" x="1516" y="1002" width="113" height="113" pivotX="56.9" pivotY="56.9"/>
+	<SubTexture name="parFarm4atl0000" x="720" y="1249" width="271" height="23" pivotX="135.45" pivotY="11.7"/>
+	<SubTexture name="parIsl4atl0000" x="1737" y="1148" width="101" height="79" pivotX="50.5" pivotY="39.7"/>
+	<SubTexture name="parZep4atl0000" x="1670" y="1674" width="85" height="25" pivotX="42.65" pivotY="12.8"/>
+	<SubTexture name="piston4atl0000" x="1255" y="867" width="11" height="79" pivotX="1" pivotY="1"/>
+	<SubTexture name="pistonShaker4atl0000" x="952" y="1352" width="15" height="52" pivotX="7.3" pivotY="28.9"/>
+	<SubTexture name="planeAds4atl0000" x="416" y="959" width="172" height="79" pivotX="86.9" pivotY="39.15"/>
+	<SubTexture name="planetsAccelerator4atl0000" x="1175" y="1631" width="53" height="53" pivotX="73.1" pivotY="38" frameX="-47" frameY="-12" frameWidth="147" frameHeight="76"/>
+	<SubTexture name="planetsAccelerator4atl0001" x="1986" y="1197" width="58" height="58" frameX="-44" frameY="-9" frameWidth="147" frameHeight="76"/>
+	<SubTexture name="planetsAccelerator4atl0002" x="242" y="1587" width="58" height="58" frameX="-44" frameY="-9" frameWidth="147" frameHeight="76"/>
+	<SubTexture name="planetsAccelerator4atl0003" x="1115" y="1587" width="58" height="58" frameX="-44" frameY="-9" frameWidth="147" frameHeight="76"/>
+	<SubTexture name="planetsAccelerator4atl0004" x="2" y="1264" width="76" height="76" frameX="-35" frameY="0" frameWidth="147" frameHeight="76"/>
+	<SubTexture name="planetsAccelerator4atl0005" x="381" y="1119" width="147" height="76"/>
+	<SubTexture name="propeller4atl0000" x="115" y="1133" width="253" height="40" pivotX="126.3" pivotY="25.25"/>
+	<SubTexture name="propellerAxis4atl0000" x="1345" y="707" width="25" height="138" pivotX="12.05" pivotY="135.25" frameX="0" frameY="0" frameWidth="25" frameHeight="158"/>
+	<SubTexture name="propellerAxis4atl0001" x="204" y="516" width="24" height="148" frameX="-1" frameY="-10" frameWidth="25" frameHeight="158"/>
+	<SubTexture name="reqMarker4atl0000" x="2033" y="1067" width="13" height="36" pivotX="6.5" pivotY="21.4"/>
+	<SubTexture name="shipSign4atl0000" x="2" y="1175" width="201" height="45" pivotX="100.1" pivotY="22.2"/>
+	<SubTexture name="shopSliderArrow4atl0000" x="194" y="1615" width="44" height="65" pivotX="27.25" pivotY="32.5"/>
+	<SubTexture name="shopUpDown4atl0000" x="609" y="1427" width="34" height="44" pivotX="2.5" pivotY="2.5"/>
+	<SubTexture name="sideCWBase4atl0000" x="405" y="717" width="225" height="71" pivotX="112.5" pivotY="69.95"/>
+	<SubTexture name="sideCWToothSide4atl0000" x="2029" y="937" width="14" height="68" pivotX="7" pivotY="68"/>
+	<SubTexture name="sideCWToothTop4atl0000" x="181" y="718" width="16" height="70" pivotX="8" pivotY="69"/>
+	<SubTexture name="signLightMark4atl0000" x="391" y="1299" width="23" height="39" pivotX="11.05" pivotY="19.6"/>
+	<SubTexture name="signLightMark4atl0001" x="467" y="1349" width="23" height="39"/>
+	<SubTexture name="slider4atl0000" x="1759" y="1389" width="13" height="30" pivotX="1" pivotY="1"/>
+	<SubTexture name="smalHammerlTank4atl0000" x="1775" y="1311" width="31" height="37" pivotX="15.15" pivotY="18.1"/>
+	<SubTexture name="smalHammerlTank4atl0001" x="273" y="1698" width="24" height="35" frameX="-4" frameY="-1" frameWidth="31" frameHeight="37"/>
+	<SubTexture name="smallLighthing4atl0000" x="1011" y="962" width="33" height="37" pivotX="16.1" pivotY="35.45"/>
+	<SubTexture name="smallPiston4atl0000" x="632" y="756" width="7" height="30" pivotX="1" pivotY="1"/>
+	<SubTexture name="smallScreenButtons4atl0000" x="540" y="1427" width="67" height="69" pivotX="34.3" pivotY="34.5" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0001" x="1759" y="1428" width="67" height="69" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0002" x="1828" y="1428" width="67" height="69" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0003" x="1897" y="1428" width="67" height="69" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0004" x="1966" y="1428" width="67" height="69" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0005" x="1343" y="1437" width="67" height="69" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0006" x="1412" y="1437" width="67" height="69" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0007" x="1481" y="1460" width="67" height="68" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0008" x="1550" y="1460" width="67" height="68" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0009" x="1619" y="1462" width="67" height="68" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0010" x="1688" y="1462" width="67" height="68" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0011" x="462" y="1468" width="67" height="68" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0012" x="73" y="1485" width="67" height="68" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0013" x="360" y="1485" width="67" height="68" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0014" x="2" y="1420" width="69" height="69"/>
+	<SubTexture name="smallScreenButtons4atl0015" x="948" y="1485" width="67" height="68" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0016" x="2" y="1491" width="67" height="68" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0017" x="609" y="1491" width="67" height="68" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0018" x="788" y="1496" width="67" height="68" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0019" x="2" y="2" width="0" height="0" frameX="-34" frameY="-34" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0020" x="2" y="2" width="0" height="0" frameX="-34" frameY="-34" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0021" x="2" y="2" width="0" height="0" frameX="-34" frameY="-34" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0022" x="2" y="2" width="0" height="0" frameX="-34" frameY="-34" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0023" x="2" y="2" width="0" height="0" frameX="-34" frameY="-34" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0024" x="2" y="2" width="0" height="0" frameX="-34" frameY="-34" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0025" x="2" y="2" width="0" height="0" frameX="-34" frameY="-34" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0026" x="1025" y="1440" width="67" height="69" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0027" x="1094" y="1440" width="67" height="69" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0028" x="153" y="1444" width="67" height="69" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0029" x="222" y="1444" width="67" height="69" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0030" x="291" y="1450" width="67" height="69" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0031" x="1163" y="1459" width="67" height="69" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0032" x="1232" y="1459" width="67" height="69" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0033" x="857" y="1496" width="67" height="68" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0034" x="646" y="1420" width="69" height="69"/>
+	<SubTexture name="smallScreenButtons4atl0035" x="806" y="1425" width="69" height="69"/>
+	<SubTexture name="smallScreenButtons4atl0036" x="877" y="1425" width="69" height="69"/>
+	<SubTexture name="smallScreenButtons4atl0037" x="717" y="1426" width="69" height="69"/>
+	<SubTexture name="smallScreenButtons4atl0038" x="678" y="1497" width="67" height="68" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0039" x="531" y="1498" width="67" height="68" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="smallScreenButtons4atl0040" x="1757" y="1499" width="67" height="68" frameX="-1" frameY="0" frameWidth="69" frameHeight="69"/>
+	<SubTexture name="spark4atl0000" x="405" y="705" width="15" height="7" pivotX="7.85" pivotY="4.65" frameX="0" frameY="-1" frameWidth="15" frameHeight="8"/>
+	<SubTexture name="spark4atl0001" x="1901" y="235" width="14" height="6" frameX="0" frameY="0" frameWidth="15" frameHeight="8"/>
+	<SubTexture name="spark4atl0002" x="1917" y="235" width="14" height="6" frameX="0" frameY="0" frameWidth="15" frameHeight="8"/>
+	<SubTexture name="spark4atl0003" x="202" y="906" width="15" height="7" frameX="0" frameY="-1" frameWidth="15" frameHeight="8"/>
+	<SubTexture name="spark4atl0004" x="1933" y="235" width="14" height="6" frameX="0" frameY="0" frameWidth="15" frameHeight="8"/>
+	<SubTexture name="spark4atl0005" x="1949" y="235" width="14" height="6" frameX="0" frameY="0" frameWidth="15" frameHeight="8"/>
+	<SubTexture name="tapmark4atl0000" x="629" y="1180" width="89" height="89" pivotX="44.25" pivotY="44.3"/>
+	<SubTexture name="tapmark4atl0001" x="1402" y="1195" width="89" height="89"/>
+	<SubTexture name="tapmark4atl0002" x="1493" y="1195" width="89" height="89"/>
+	<SubTexture name="tutCoin4atl0000" x="952" y="1412" width="71" height="71" pivotX="35.35" pivotY="35.35"/>
+	<SubTexture name="tutHand4atl0000" x="517" y="1218" width="71" height="97" pivotX="35.8" pivotY="48.55"/>
+	<SubTexture name="tutSideArrow4atl0000" x="1192" y="1424" width="149" height="33" pivotX="44.45" pivotY="16.45"/>
+	<SubTexture name="x10sign4atl0000" x="1215" y="1095" width="41" height="19" pivotX="20.9" pivotY="9.8"/>
+	<SubTexture name="zeppelin4atl0000" x="1579" y="881" width="231" height="119" pivotX="115.7" pivotY="59.9"/>
+</TextureAtlas>
