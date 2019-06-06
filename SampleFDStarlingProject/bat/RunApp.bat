@@ -29,6 +29,7 @@ echo (hint: edit 'Run.bat' to test on device or change screen size)
 echo.
 adl -screensize %SCREEN_SIZE% "%APP_XML%" "%APP_DIR%" -extdir lib/
 if errorlevel 1 goto end
+goto android-test
 goto endNoPause
 
 :ios-debug

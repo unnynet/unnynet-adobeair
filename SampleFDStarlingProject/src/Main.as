@@ -37,6 +37,7 @@ package
 			Starling.multitouchEnabled = true;
 			// entry point
 			
+			
 			//CONFIG::isPCVersion{
 			//	stage.scaleMode = StageScaleMode.SHOW_ALL;
 			//	stage.displayState = StageDisplayState.FULL_SCREEN_INTERACTIVE;
@@ -51,8 +52,9 @@ package
 			// entry point
 			//StarApp - класс самого приложения
 			_starling = new Starling(StarApp, this.stage, port, null, Context3DRenderMode.AUTO);
-			_starling.showStats = false;//*/true;//показывать ли ФПС
+			_starling.showStats = /*false;//*/true;//показывать ли ФПС
 			_starling.simulateMultitouch = true;
+			
 			//adaptive screen:
 			
 			_starling.stage.stageWidth = ConstLibrary.gameWidth;
