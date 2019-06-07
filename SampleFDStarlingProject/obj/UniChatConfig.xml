@@ -14,7 +14,7 @@
     </define>
     <define append="true">
       <name>CONFIG::timeStamp</name>
-      <value>'6/6/2019'</value>
+      <value>'6/7/2019'</value>
     </define>
     <define append="true">
       <name>CONFIG::air</name>
@@ -40,6 +40,7 @@
       <path-element>C:\GitHub\unnynet-adobeair\SampleFDStarlingProject\lib\adt\com.google.code.gson.gson-2.8.4.ane</path-element>
       <path-element>C:\GitHub\unnynet-adobeair\SampleFDStarlingProject\lib\adt\com.tuarua.frekotlin.ane</path-element>
       <path-element>C:\GitHub\unnynet-adobeair\SampleFDStarlingProject\lib\adt\WebViewANE.ane</path-element>
+      <path-element>C:\GitHub\unnynet-adobeair\SampleFDStarlingProject\libs\UniButtonSprites.swc</path-element>
     </library-path>
   </compiler>
   <file-specs>

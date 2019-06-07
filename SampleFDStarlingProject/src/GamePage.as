@@ -53,6 +53,9 @@ package
 			addEventListener(TouchEvent.TOUCH, onTouch);
 			
 			//unnyNet.initialize();
+			unnyNet = new UnnyNet(Starling.current.nativeStage, '11b426cf-d486-465f-a5d5-174d68c85cfe');
+			unnyNet.setWebViewScaleFactor(Starling.current.contentScaleFactor);
+			
 		}
 		
 		private function onTouch(e:TouchEvent):void 
@@ -63,9 +66,7 @@ package
 					if (tch.target == im1){
 						trace('Im1');
 						//
-						unnyNet = new UnnyNet(Starling.current.nativeStage, '11b426cf-d486-465f-a5d5-174d68c85cfe');
-						unnyNet.setWebViewScaleFactor(Starling.current.contentScaleFactor);
-						unnyNet.setChatRectOnScreen(new Rectangle(0, 100, stage.stageWidth, stage.stageHeight-100))			
+						unnyNet.setChatRectOnScreen(new Rectangle(0, 100, stage.stageWidth, stage.stageHeight / 2 - 100));			
 						unnyNet.show();
 						//showWebView();
 					}
@@ -105,7 +106,7 @@ package
 		//	}
 		//}
 		//
-		//public function onJSCalled(str:JavascriptResult=null):void 
+		//public function onJCalled(str:JavascriptResult=null):void 
 		//{
 		//	Cc.log('JS called:',str.error, str.message, str.result, str.success);
 		//}

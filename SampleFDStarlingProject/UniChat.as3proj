@@ -58,6 +58,7 @@
     <element path="lib\adt\com.google.code.gson.gson-2.8.4.ane" />
     <element path="lib\adt\com.tuarua.frekotlin.ane" />
     <element path="lib\adt\WebViewANE.ane" />
+    <element path="libs\UniButtonSprites.swc" />
   </libraryPaths>
   <!-- External Libraries -->
   <externalLibraryPaths>

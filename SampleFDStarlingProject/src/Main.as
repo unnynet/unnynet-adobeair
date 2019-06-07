@@ -22,7 +22,7 @@ package
 		public static var self:Main;		
 		public function Main() 
 		{
-			Cc.startOnStage(this);
+			//Cc.startOnStage(this);
 			Cc.listenUncaughtErrors(this.loaderInfo);
 			stage.scaleMode = StageScaleMode.NO_SCALE;
 			stage.align = StageAlign.TOP_LEFT;
